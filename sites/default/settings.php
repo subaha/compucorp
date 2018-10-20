@@ -252,11 +252,11 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'utr9tkpgiufbsb7w',
-      'username' => 'xlkuq9d0ccnziwu2',
-      'password' => 'nceguj2kjjyxugpk',
-      'host' => 'am1shyeyqbxzy8gc.cbetxkdyhwsb.us-east-1.rds.amazonaws.com',
-      'port' => '3306',
+      'database' => 'heroku_1087d32f366c9d5',
+      'username' => 'b839c60bbee427',
+      'password' => 'ee8fb871',
+      'host' => 'localhost',
+      'port' => '',
       'driver' => 'mysql',
       'prefix' => 'drupal_',
     ),
